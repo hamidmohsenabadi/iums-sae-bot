@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # --- شناسه‌های شما در اینجا قرار داده شده است ---
 ADMIN_ID = 448466260
-GROUP_ID = -1001003179248243
+GROUP_ID = -1003179248243
 
 # تنظیمات لاگ برای دیباگینگ
 logging.basicConfig(
